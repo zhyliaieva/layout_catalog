@@ -1,0 +1,2 @@
+body{margin:0;font-family:Roboto,sans-serif;font-size:12px;font-weight:500}.container{--column-count:1;grid-template-columns:repeat(var(--column-count),200px);justify-content:center;gap:46px 48px;padding:50px 40px;display:grid}@media (width>=488px){.container{--column-count:2}}@media (width>=768px){.container{--column-count:3}}@media (width>=1024px){.container{--column-count:4}}
+/*# sourceMappingURL=index.80a3b296.css.map */
